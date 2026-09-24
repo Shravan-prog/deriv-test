@@ -1,0 +1,14 @@
+[
+  {
+    "ticket_id": "T2",
+    "customer_message": "I withdrew funds two days ago and still don't see them in my bank account.",
+    "expected_category": "billing",
+    "expected_urgency": "high"
+  },
+  {
+    "ticket_id": "T1",
+    "customer_message": "I cannot log in after resetting my password.",
+    "expected_category": "login_access",
+    "expected_urgency": "high"
+  }
+]
