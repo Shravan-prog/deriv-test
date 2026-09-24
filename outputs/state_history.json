@@ -1,0 +1,34 @@
+[
+  {
+    "stages": [
+      "INIT",
+      "INPUTS_LOADED",
+      "TEXT_PREPROCESSED",
+      "MODEL_PROMPTED",
+      "STRUCTURED_OUTPUT_PARSED",
+      "CONFIDENCE_CHECKED",
+      "ROUTED",
+      "RESPONSE_GENERATED",
+      "RESULTS_SAVED",
+      "EVALUATION_COMPUTED",
+      "VALIDATION_COMPLETED"
+    ],
+    "ticket_id": "T1"
+  },
+  {
+    "stages": [
+      "INIT",
+      "INPUTS_LOADED",
+      "TEXT_PREPROCESSED",
+      "MODEL_PROMPTED",
+      "STRUCTURED_OUTPUT_PARSED",
+      "CONFIDENCE_CHECKED",
+      "ROUTED",
+      "RESPONSE_GENERATED",
+      "RESULTS_SAVED",
+      "EVALUATION_COMPUTED",
+      "VALIDATION_COMPLETED"
+    ],
+    "ticket_id": "T2"
+  }
+]
