@@ -1,0 +1,14 @@
+{
+  "auto_routed_tickets": 2,
+  "category_accuracy": 1.0,
+  "classified_tickets": 2,
+  "coverage": 1.0,
+  "error_tickets": 0,
+  "human_review_rate": 0.0,
+  "human_review_tickets": 0,
+  "labeled_tickets": 2,
+  "total_tickets": 2,
+  "urgency_accuracy": 0.5,
+  "validation_errors": [],
+  "validation_passed": true
+}
