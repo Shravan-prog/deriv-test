@@ -1,0 +1,24 @@
+[
+  {
+    "raw_response": "{\"category\":\"login_access\",\"urgency\":\"high\",\"category_confidence\":0.75,\"urgency_confidence\":0.7,\"suggested_reply\":\"Thanks for contacting us. We’re reviewing your request and will follow up shortly.\"}",
+    "structured_response": {
+      "category": "login_access",
+      "category_confidence": 0.75,
+      "suggested_reply": "Thanks for contacting us. We’re reviewing your request and will follow up shortly.",
+      "urgency": "high",
+      "urgency_confidence": 0.7
+    },
+    "ticket_id": "T1"
+  },
+  {
+    "raw_response": "{\"category\":\"billing\",\"urgency\":\"low\",\"category_confidence\":0.75,\"urgency_confidence\":0.7,\"suggested_reply\":\"Thanks for contacting us. We’re reviewing your request and will follow up shortly.\"}",
+    "structured_response": {
+      "category": "billing",
+      "category_confidence": 0.75,
+      "suggested_reply": "Thanks for contacting us. We’re reviewing your request and will follow up shortly.",
+      "urgency": "low",
+      "urgency_confidence": 0.7
+    },
+    "ticket_id": "T2"
+  }
+]
