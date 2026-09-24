@@ -1,0 +1,18 @@
+[
+  {
+    "category": "login_access",
+    "confidence": 0.7,
+    "route": "auto",
+    "suggested_reply": "Thanks for contacting us. We’re reviewing your request and will follow up shortly.",
+    "ticket_id": "T1",
+    "urgency": "high"
+  },
+  {
+    "category": "billing",
+    "confidence": 0.7,
+    "route": "auto",
+    "suggested_reply": "Thanks for contacting us. We’re reviewing your request and will follow up shortly.",
+    "ticket_id": "T2",
+    "urgency": "low"
+  }
+]
